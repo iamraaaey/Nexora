@@ -1,5 +1,6 @@
 ![Welcome to Nexora App](https://gist.githubusercontent.com/iamraaaey/193eb125fad6b99b9f474222a4dba764/raw/461ed90aeac989532832e24cd82ef02d111171f0/raynold-kabai.svg)
 
+![About Image](https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/about_app.jpg)
 
 
 # Nexora from Manok Team  (Hackathon X at UMPSA 2024 )🚀
@@ -41,6 +42,35 @@ The Job Matching System is a comprehensive platform designed to empower job seek
 ### 7. AI-Based Career Guidance 🧠
 - **Career Counseling Bot 🤖**: An AI-driven chatbot that suggests career paths, training, and jobs based on users’ profiles and interests.
 - **Skill Gap Analysis**: Identifies gaps between current user skills and job requirements, recommending specific training to bridge these gaps.
+
+<p align="center">
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/1.jpg" alt="Image 1" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/2.jpg" alt="Image 2" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/3.jpg" alt="Image 3" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/4.jpg" alt="Image 4" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/5.jpg" alt="Image 5" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/6.jpg" alt="Image 6" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/7.jpg" alt="Image 7" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/8.jpg" alt="Image 8" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/9.jpg" alt="Image 9" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/10.jpg" alt="Image 10" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/11.jpg" alt="Image 11" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/12.jpg" alt="Image 12" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/13.jpg" alt="Image 13" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/14.jpg" alt="Image 14" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/15.jpg" alt="Image 15" width="200"/>
+  <img src="https://github.com/iamraaaey/Nexora/blob/main/assets/avatars/screenshots/16.jpg" alt="Image 16" width="200"/>
+</p>
+
 
 
 # 🚀 Welcome to the Jobs Flutter App!
