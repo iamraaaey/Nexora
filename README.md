@@ -1,1 +1,1 @@
-![Uploading Blue White Modern Monitor Manage and Maximize Instagram Post .jpg…]()
+![Hi there! I'm Raynold Kabai](https://your-hosted-url/raynold-kabai.svg)
